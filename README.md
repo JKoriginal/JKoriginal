@@ -14,8 +14,10 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![MongoDb](https://img.shields.io/badge/MongoDB-darkgreen?logo=MongoDB)&nbsp;
 ![Express](https://img.shields.io/badge/Express-black?logo=express)&nbsp;
-![React](https://img.shields.io/badge/Express-black?logo=express)&nbsp;
-![Node](https://img.shields.io/badge/Express-black?logo=express)&nbsp;
+![React](https://img.shields.io/badge/React-black?logo=React)&nbsp;
+![Node](https://img.shields.io/badge/Node-black?logo=node.js)&nbsp;
+![R](https://img.shields.io/badge/R-black?logo=R&logoColor=blue)&nbsp;
+![flutter](https://img.shields.io/badge/Flutter-black?logo=flutter&labelColor=blue)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
